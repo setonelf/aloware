@@ -1,0 +1,7 @@
+- Some links are taking to same page, I think a page with content relevante to topic should be created
+- Routines of login and account creation could be validated
+- Forms in general should be validated with valid and invalid informations
+- The automation some times fail due to a 403 error or taking to an invalid page
+- The UX of site can be improved
+- Settings of assistance to persons with disability should present on the page
+- Other tests can be created, a brainstorm with another tester could help to check the creation of new scenarios
