@@ -1,0 +1,197 @@
+TC001 - Login button is redirecting to Login page
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on Login button on top rigt of the page
+2 - Check the page opened
+
+Expected Results
+ - The login page must be opened (https://app.aloware.com/login)
+
+-----------------------------------------------------------------------
+
+TC002 - Search on search field
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on magnifier on top of the page
+2 - Type some text as "phone" then click enter
+
+Expected condition
+1 -  A search field must be opened
+2 -  A list of topics related to "phone" must be shown
+
+-----------------------------------------------------------
+
+TC003 - Behavior of "Start for free" button
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Start for free" button on top right of the page
+2 - Check the frame
+
+Expected Results
+1 - A frame with a form should be displayed
+2 - The form should contain the fields: Full name, Company email, Company name,
+Select team size, phone, check for the terms and check to accept message
+
+-----------------------------------------------------------------
+
+TC004 - Behavior of "Get a demo" button
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Get a demo" button on right of the page
+2 - Check the frame
+
+Expected Results
+1 - A frame with a form should be displayed
+2 - The form should contain the fields: Full name, Company email, Company name,
+Select team size, phone, check for the terms and check to accept message
+
+--------------------------------------------------------------------------
+
+TC005 - Behavior of "Explore Fetures" button
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Explore features" button on right of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The features page should be opened
+2 - The feature page with a lateral list and the central content must be displayed
+
+------------------------------------------------------------------------
+
+TC006 - Behavior of "Features" link
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Features" link on top of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The features page should be opened
+2 - The feature page with a lateral list and the central content must be displayed
+
+---------------------------------------------------------------------------
+
+TC007 - Behavior of "Solutions" link
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Solutions" link on top of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The solutions page should be opened
+2 - The solution page with the aloware solution must be displayed
+
+---------------------------------------------------------------------
+
+TC008 - Behavior of "Integrations" link
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Integrations" link on top of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The Integrations page should be opened
+2 - The Integrations page with the integrations with hubspot, Pipedrive,
+ Zoho, Salesforce, Guesty, HelpScout, Zapier and Gong
+
+-------------------------------------------------------------------
+
+TC009 - Behavior of "Pricing" link
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Pricing" link on top of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The Pricing page should be opened
+2 - The Pricing page with the information iPro, uPro and xPro plans with
+the prices and features of wich plan must be shown
+
+--------------------------------------------------------------------
+
+TC010 - Behavior of "Compare Us" link
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Compare Us" link on top of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The Compare Us page should be opened
+2 - The Compare Us page with the information iPro, uPro and xPro plans with
+the prices and features of wich plan must be shown
+
+---------------------------------------------------------------------
+
+TC011 - Behavior of "Resources" link
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on "Resources" link on top of the page
+2 - Check the page opened
+
+Expected conditions
+1 - The Resources page should be opened
+2 - The Resources page with the information iPro, uPro and xPro plans with
+the prices and features of wich plan must be shown
+
+------------------------------------------------------------------------
+
+TC012 - Click on chatbot button on bottom right of the screen
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Click on chat blue circle on bottom right of the screen
+
+Expected
+2 - A small screen of chat with a bot must be displayed
+
+-------------------------------------------------------------------
+
+TC013 - Offer screen
+
+Pre-condition
+- Be on aloware homepage (https://aloware.com/)
+
+Steps
+1 - Roll the page to bottom till appears the offer screen
+
+Expected Results
+1 - The offer screen must contain a form with the fields: full name, company email,
+company name, team size, phone and check boxes for agree with terms and to receive
+text messages
+
+-------------------------------------------------------------------
